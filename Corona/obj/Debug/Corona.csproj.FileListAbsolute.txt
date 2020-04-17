@@ -1,0 +1,20 @@
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.csprojAssemblyReference.cache
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.FrmMenuUtama.resources
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.Properties.Resources.resources
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.csproj.GenerateResource.cache
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.csproj.CoreCompileInputs.cache
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\bin\Debug\Corona.exe.config
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\bin\Debug\Corona.exe
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\bin\Debug\Corona.pdb
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.exe
+D:\TUGAS\SEMS 4\Pemrograman Visual\Corona\Corona\obj\Debug\Corona.pdb
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\bin\Debug\Corona.exe.config
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\bin\Debug\Corona.exe
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\bin\Debug\Corona.pdb
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.csprojAssemblyReference.cache
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.FrmMenuUtama.resources
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.Properties.Resources.resources
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.csproj.GenerateResource.cache
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.csproj.CoreCompileInputs.cache
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.exe
+C:\Users\BogeL\Downloads\UTS-1822250042\Corona\Corona\obj\Debug\Corona.pdb
